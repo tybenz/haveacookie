@@ -1,1 +1,1 @@
-[haveacookie.gif]
+![](haveacookie.gif)
